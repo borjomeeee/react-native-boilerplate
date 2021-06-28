@@ -1,18 +1,22 @@
 # React-Native-Boilerplate
 
-State manadgment:
+## Installing
+
+`npx react-native init $NAME_YOU_APP --template https://github.com/borjomeeee/react-native-boilerplate.git`
+
+## State managment
 
 - Redux (toolkit)
 - Redux-saga
 - Redux-persist
 
-Styles:
+## Styles
 
 - Tachyouns like styles (@borjomeeee/rn-styles)
 
 > <b>Note!</b> Also can use default react-native StyleSheet
 
-Specific libs:
+## Specific libs
 
 - react-navigation - navigation inside app
 - react-native-reanimated - smooth animations
